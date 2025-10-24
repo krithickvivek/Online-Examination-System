@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+## Reg No: 212223240075
+## Name: Krithick Vivekananda 
+## Date:
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="820" height="902" alt="Screenshot 2025-10-23 230822" src="https://github.com/user-attachments/assets/7f2ffc09-e35d-4d65-af1d-5cc97433871a" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="729" height="664" alt="Screenshot 2025-10-23 235846" src="https://github.com/user-attachments/assets/95b7d8c1-9268-4d33-8ba0-501265c04e84" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="874" height="753" alt="Screenshot 2025-10-23 234520" src="https://github.com/user-attachments/assets/8f379511-07a8-4e07-b439-c2457c077752" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="709" height="526" alt="Screenshot 2025-10-23 232544" src="https://github.com/user-attachments/assets/77da4c1a-f11f-4855-80ec-59997f5a34da" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="866" height="916" alt="Screenshot 2025-10-23 231916" src="https://github.com/user-attachments/assets/57d9f908-e8c8-40c7-9db6-8686ff8174dc" />
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="879" height="754" alt="Screenshot 2025-10-23 233350" src="https://github.com/user-attachments/assets/e5ac9cad-68f8-4693-ac33-6ea3357881e7" />
 
 
 
